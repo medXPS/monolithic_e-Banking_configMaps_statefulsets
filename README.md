@@ -1,0 +1,1 @@
+# monolithic_e-Banking_configMaps_statefulsets
